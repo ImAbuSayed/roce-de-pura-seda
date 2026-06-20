@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roce de pura seda
+
+This log tracks the cryptographic history and versioning for the song **Roce de pura seda** (roce-de-pura-seda).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T03:00:43.157306 | `v1` | `d09b84ec60c4331621d6d75825d942f7fd460d451f2b2fdd177148df7344f97e` | `4942c1219522c6946fa004d7f449c7be93fc02c4e1bd8b32218e42c63ad5840f` | `2026-06-21_roce-de-pura-seda-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

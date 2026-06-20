@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-de-pura-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Roce de pura seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-pura-seda/) |
+| **Get License** | [Request Licensing for Roce de pura seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-pura-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d09b84ec60c4331621d6d75825d942f7fd460d451f2b2fdd177148df7344f97e` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
